@@ -27,7 +27,7 @@
                                 id = "btn-submit">Add</button> 
                         </div>
                         <div class="list-wrapper">
-                            <ul class="d-flex flex-column-reverse todo-list" id="todo-list">
+                            <ul class="d-flex flex-column-reverse todo-list" id="todo-list" style="list-style: none">
                             </ul>
                         </div>
                     </div>
